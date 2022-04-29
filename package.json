@@ -1,7 +1,7 @@
 {
   "name": "array-of-numbers",
-  "version": "1.0.2",
-  "description": "Return an array of integers",
+  "version": "1.0.3",
+  "description": "Returns an array of integers",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -16,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/jro31/array-of-numbers/issues"
   },
-  "homepage": "https://github.com/jro31/array-of-numbers#readme"
+  "homepage": "https://jethro.codes/packages/array-of-numbers"
 }
