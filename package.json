@@ -1,4 +1,20 @@
 {
   "name": "array-of-numbers",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Return an array of integers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jro31/array-of-numbers.git"
+  },
+  "keywords": [
+    "array-of-numbers",
+    "array-of-integers"
+  ],
+  "author": "Jethro Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jro31/array-of-numbers/issues"
+  },
+  "homepage": "https://github.com/jro31/array-of-numbers#readme"
 }
