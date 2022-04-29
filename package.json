@@ -1,6 +1,6 @@
 {
   "name": "array-of-numbers",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Return an array of integers",
   "main": "index.js",
   "repository": {
@@ -12,7 +12,7 @@
     "array-of-integers"
   ],
   "author": "Jethro Williams",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jro31/array-of-numbers/issues"
   },
